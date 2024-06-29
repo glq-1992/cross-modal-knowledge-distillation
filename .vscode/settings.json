@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/gaoliqing/anaconda3/envs/slr/bin/python",
+    // "python.envFile": "${workspaceFolder}/dev.env"
+
+}
